@@ -1,1 +1,1 @@
-PruebaNotificacionYServicio
+PruebaServicioNotificaciones
